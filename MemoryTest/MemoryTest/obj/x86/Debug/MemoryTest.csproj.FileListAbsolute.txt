@@ -1,0 +1,9 @@
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\MemoryTest\MemoryTest\bin\Debug\MemoryTest.exe
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\MemoryTest\MemoryTest\bin\Debug\MemoryTest.pdb
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\MemoryTest\MemoryTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\MemoryTest\MemoryTest\obj\x86\Debug\MemoryTest.Properties.Resources.resources
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\MemoryTest\MemoryTest\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\MemoryTest\MemoryTest\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\MemoryTest\MemoryTest\obj\x86\Debug\MemoryTest.exe
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\MemoryTest\MemoryTest\obj\x86\Debug\MemoryTest.pdb
+c:\documents and settings\user\мои документы\visual studio 2010\Projects\MemoryTest\MemoryTest\obj\x86\Debug\MemoryTestWF.MemoryTestForm.resources
