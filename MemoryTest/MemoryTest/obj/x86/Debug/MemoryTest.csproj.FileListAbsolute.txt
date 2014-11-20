@@ -7,3 +7,10 @@ c:\documents and settings\user\мои документы\visual studio 2010\Proj
 c:\documents and settings\user\мои документы\visual studio 2010\Projects\MemoryTest\MemoryTest\obj\x86\Debug\MemoryTest.exe
 c:\documents and settings\user\мои документы\visual studio 2010\Projects\MemoryTest\MemoryTest\obj\x86\Debug\MemoryTest.pdb
 c:\documents and settings\user\мои документы\visual studio 2010\Projects\MemoryTest\MemoryTest\obj\x86\Debug\MemoryTestWF.MemoryTestForm.resources
+D:\Projects\MySelf\MemoryTest\MemoryTest\MemoryTest\obj\x86\Debug\MemoryTest.exe
+D:\Projects\MySelf\MemoryTest\MemoryTest\MemoryTest\obj\x86\Debug\MemoryTest.pdb
+D:\Projects\MySelf\MemoryTest\MemoryTest\MemoryTest\bin\Debug\MemoryTest.exe
+D:\Projects\MySelf\MemoryTest\MemoryTest\MemoryTest\bin\Debug\MemoryTest.pdb
+D:\Projects\MySelf\MemoryTest\MemoryTest\MemoryTest\obj\x86\Debug\MemoryTestWF.MemoryTestForm.resources
+D:\Projects\MySelf\MemoryTest\MemoryTest\MemoryTest\obj\x86\Debug\MemoryTest.csproj.GenerateResource.Cache
+D:\Projects\MySelf\MemoryTest\MemoryTest\MemoryTest\obj\x86\Debug\MemoryTest.csprojResolveAssemblyReference.cache
